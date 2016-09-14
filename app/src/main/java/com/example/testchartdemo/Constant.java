@@ -40,4 +40,6 @@ public class Constant {
 	
 	//Myinfo中保存环信账号
 	public static final String KEY_USERNAME = "username";
+
+	public static final String My = "username";
 }
